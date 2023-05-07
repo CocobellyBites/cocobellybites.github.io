@@ -1,0 +1,18 @@
+baseURL = ''
+languageCode = 'en-us'
+
+# The browser tab name.
+title = 'Cocobelly Bites'
+
+# The name of theme used.
+theme = 'hugo-scroll'
+
+# A "copyright"-line to be added at the bottom of the page.
+copyright = "© Cocobelly Bites"
+
+# The "description" of your website. This is used in the meta data of your generated html.
+description = "Jamaican Bites to keep your Cocobelly full"
+
+# In order to add version information in the page's footer set to true.
+#enableGitInfo = true
+
