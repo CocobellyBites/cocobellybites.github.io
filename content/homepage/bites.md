@@ -17,7 +17,7 @@ A flavorful pastry that is traditional filled with ground beef. The pastry color
 **Traditional Beef:**
 Seasoned ground beef, carrots and an onion sauteed mixture. 
 
-**Challaloo Veggie:** 
+**Callaloo Veggie:** 
 Seasoned callaloo greens with onion, garlic, tomato, scallion, thyme, a smidgen of Scotch bonnet pepper
 
 ---

@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://cocobellybites.com/'
 languageCode = 'en-us'
 
 # The browser tab name.
@@ -16,3 +16,5 @@ description = "Jamaican Bites to keep your Cocobelly full"
 # In order to add version information in the page's footer set to true.
 #enableGitInfo = true
 
+# The directory to where Hugo will write the final static site
+# publishdir = 'docs/'

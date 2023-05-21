@@ -3,7 +3,7 @@ title: "Welcome"
 weight: 1
 ---
 
-> Wah Gwan?  -- Jamaican Patois
+> Wah Gwan?  -- greeting in Jamaican Patois
 
 We are so glad that you have arrived at **Cocobelly Bites**. 
 
