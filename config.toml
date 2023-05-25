@@ -17,4 +17,4 @@ description = "Jamaican Bites to keep your Cocobelly full"
 #enableGitInfo = true
 
 # The directory to where Hugo will write the final static site
-publishDir = 'docs/'
+#publishDir = 'docs/'

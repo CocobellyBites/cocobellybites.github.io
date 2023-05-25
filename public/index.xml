@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cocobelly Bites</title>
+    <link>https://cocobellybites.com/</link>
+    <description>Recent content on Cocobelly Bites</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Cocobelly Bites</copyright><atom:link href="https://cocobellybites.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://cocobellybites.com/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocobellybites.com/about-us/</guid>
+      <description>About Us As sisters, we&amp;rsquo;ve had the honor of being surrounded by amazing home cooks, so great tasting food has always been a staple for us. Food is very often tied to folk&amp;rsquo;s best memories with family and friends. So we want to share our knowledge of the Jamaican cuisine as a way to preserve our childhood memories, and to create new memories for others.
+Paula Cooking and just living life.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cocobellybites.com/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocobellybites.com/homepage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
