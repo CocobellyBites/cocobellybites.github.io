@@ -7,6 +7,9 @@ title = 'Cocobelly Bites'
 # The name of theme used.
 theme = 'hugo-scroll'
 
+# The directory to where Hugo will write the final static site
+publishDir = 'docs/'
+
 # A "copyright"-line to be added at the bottom of the page.
 copyright = "© Cocobelly Bites"
 
@@ -15,6 +18,3 @@ description = "Jamaican Bites to keep your Cocobelly full"
 
 # In order to add version information in the page's footer set to true.
 #enableGitInfo = true
-
-# The directory to where Hugo will write the final static site
-publishDir = 'docs/'
