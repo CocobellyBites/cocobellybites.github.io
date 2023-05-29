@@ -5,18 +5,21 @@ header_menu: true
 ---
 
 
-**Yummy Bites**
+Jamaican patty production for Somerville Farmer's Market in Union Square.
+`{{<icon class="fa fa-bullhorn fa-lg">}}` Be sure to take a peek out our full [photo album](photo-album)!
 
->Getting the patties labelled for Saturday's farmers market
+>Crimped and ready for packaging
 
-![Patty labellng](../images/pj-labels1.jpg)
+![Patty Labellng](../images/patties-prod1.jpg)
 
->Small batch handmade beef and vegetable patties are ready to go
+>Getting 'em labelled 
 
-![Frozen patties](../images/fp2.jpg)
+![Patty Labellng](../images/patties-prod2.jpg)
 
-> From our May 16th cooking class: 
+>Small batch handmade patties ready for your freezer
 
-Jamaica's national dish of **ackee and saltfish** craddle in a plaintain cup with a side of fried dumplings
+![Bin of Frozen Patties](../images/patties-prod3.jpg)
 
-![Ackee in plaintain cup](../images/ackee-plaintain-cup.jpg)
+>The results are fresh baked patties
+
+![Hot Patties](../images/patties-prod5.jpg)

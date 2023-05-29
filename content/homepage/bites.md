@@ -18,12 +18,12 @@ A flavorful pastry that is traditional filled with ground beef. The pastry color
 Seasoned ground beef, carrots and an onion sauteed mixture. 
 
 **Callaloo Veggie:** 
-Seasoned callaloo greens with onion, garlic, tomato, scallion, thyme, a smidgen of Scotch bonnet pepper
+Seasoned callaloo greens with tomato, carrot, corn, green beans, onion sauted mixture.
 
 ---
 
 **Gizzada**
 A small coconut round tart with pinch marks around the edges for stylistic effect where Jamaicans adopted and modified the Portuguese Queijada. Get ready to enjoy a delicious burst of flavor consisting of grated coconut, sugar, nutmeg, ginger, all-spice and vanilla. 
 
-**Sorrel:** 
+**Sorrel Refresher:** 
 A refreshing sweet yet tart gingery hibiscus drink
