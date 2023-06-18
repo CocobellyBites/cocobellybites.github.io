@@ -2,7 +2,7 @@
 title: "Bites for Your Belly"
 header_menu_title: "Bites"
 navigation_menu_title: "Bites"
-weight: 2
+weight: 3
 header_menu: true
 ---
 

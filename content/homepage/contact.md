@@ -2,7 +2,7 @@
 title: "Get In Touch"
 header_menu_title: "Contact"
 navigation_menu_title: "Contact"
-weight: 6
+weight: 9
 header_menu: true
 ---
 

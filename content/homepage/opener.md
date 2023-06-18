@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
-weight: 1
+weight: 2
+header_menu: true
 ---
 
 > Wah Gwan?  -- greeting in Jamaican Patois

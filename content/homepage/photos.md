@@ -1,12 +1,12 @@
 ---
 title: "Photos"
-weight: 4
+weight: 7
 header_menu: true
 ---
 
 
 Jamaican patty production for Somerville Farmer's Market in Union Square.
-`{{<icon class="fa fa-bullhorn fa-lg">}}` Be sure to take a peek out our full [photo album](photo-album)!
+`{{<icon class="fa fa-bullhorn fa-2x">}}` Be sure to take a peek out our full [photo album](photo-album)!
 
 >Crimped and ready for packaging
 
