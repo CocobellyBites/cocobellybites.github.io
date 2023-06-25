@@ -3,8 +3,10 @@ title: ""
 weight: 1
 ---
 
-![Juneteenth](../images/flyer-619.jpg)
+#### *`{{<icon class="fa fa-commenting fa-lg">}}` Newsworthy*
 
-`{{<icon class="fa fa-bullhorn fa-2x fa-flip-horizontal">}}` Check us out **tomorrow** at Nibble Kitchen in Bow Market `{{<icon class="fa fa-bullhorn fa-2x">}}`
+Check out the flyer below and save the date for our **July 3rd** popup at Nibble Kitchen 
+ 
+![July 3rd Popup at Nibble Kitchn](../images/flyer-73.jpg)
 
-[Events Calendar](events)
+ `{{<icon class="fa fa-calendar fa-lg">}}` [Events Calendar](events) `{{<icon class="fa fa-calendar fa-lg">}}`

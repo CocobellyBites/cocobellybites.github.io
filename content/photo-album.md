@@ -6,6 +6,17 @@ ___
 
 #### `{{<icon class="fa fa-camera fa-lg">}}` Photo Album 
 
+----
+
+###### June 19th: Nibble Kitchen Popup on Juneteenth
+Many **THANKS** to everyone that dropped into the popup at Nibble Kitchen in Bow Market to enjoy a hot patty, side of plaintains and sorrel refresher. Going in we were unsure of how many diners would come out on a Monday afternoon. However we were pleasant suprised and promise to have more at our next popup.
+
+![Cocobelly Bites Popup](../images/cbb-popup1.jpg)
+
+![Beef Patty Goodness](../images/patty-bite.jpg)
+
+![Patties made with Love](../images/patty-duties.jpg)
+
 
 ----
 
