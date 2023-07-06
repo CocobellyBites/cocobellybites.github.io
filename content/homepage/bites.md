@@ -12,7 +12,7 @@ We take pride in making handmade and delicious Jamaican bites and our mission is
 ##### *Our Bites*
 
 **Jamaican Patty**
-A flavorful pastry that is traditional filled with ground beef. The pastry color emerges from the curry/turmeric spices which also lends to it's distinct taste. Today you can find the Jamaican patty with various fillings from curry chicken, ackee and even lobster. The most common way Jamaicans eat their patty is to slip it into a cocobread, basically like a sandwich. Get ready to bite into our homemade flakey patties.
+A flavorful pastry that is traditional filled with ground beef. The pastry color emerges from the curry/turmeric spices which also lends to it's distinct taste. Today you can find the Jamaican patty with various fillings from curry chicken, ackee and even lobster. The most common way Jamaicans eat their patty is to slip it into a cocobread, basically like a sandwich. Get ready to bite into our homemade flaky patties.
 
 **Traditional Beef:**
 Seasoned ground beef, carrots and an onion sauteed mixture. 
@@ -21,7 +21,7 @@ Seasoned ground beef, carrots and an onion sauteed mixture.
 Seasoned shredded curry chicken, carrots simmered in coconut milk.
 
 **Callaloo Veggie:** 
-Seasoned callaloo greens with tomato, carrot, corn, green beans and an onion sauted mixture.
+Seasoned callaloo greens with tomato, carrot, corn, green beans and an onion sauteed mixture.
 
 ---
 ##### *Sides and Refreshers*
@@ -33,4 +33,4 @@ Sweet & salty side of sliced fried ripe plaintains.
 A refreshing sweet yet tart gingery hibiscus drink.
 
 **Ginger Refresher:**
-A sparkling ginger with a hint of lime drink.
+A punch of ginger with a hint of lime drink.

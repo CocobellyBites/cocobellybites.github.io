@@ -7,7 +7,7 @@ header_menu: true
 ---
 
 
-You can find us once a month at Somerville Farmer's Market in Union Square. We will have a varied offering of Jamaican patties either beef, curry chicken or vegetable along with some refreshing sorrel and ginger juices. 
+You can find us once a month at Somerville Farmer's Market in Union Square. We will have a varied offering of take-home frozen Jamaican patties in either beef, curry chicken or vegetable along with some refreshing sorrel or ginger drinks. 
 
 ---
 
