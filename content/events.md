@@ -7,35 +7,57 @@ ___
 #### `{{<icon class="fa fa-calendar-check-o fa-lg">}}` 2023 Calendar of Events
 
 
-----
+> ###### Month of August 2023
 
-> ###### Month of July 2023
-
-![Fireworks and Sparkles](../images/july-events-spark.jpg)
+![Fireworks and Sparkles](../images/events-aug-ja.jpg)
 
 `{{<icon class="fa fa-map-signs fa-2x">}}`
 Come visit us in Somerville
 
 | Date              | Description |
 | -----------       | ----------- |
-| Mon 7/3           | Nibble Kitchen Popup within Bow Market|
+| Sun 8/6           | Nibble Kitchen's Jamaican Independence Day Celebration within Bow Market|
+| Sat 8/19          | Somerville Farmer’s Market in Union Square |
+
+
+---
+- *Sunday 8/6: Pop-up at Nibble Kitchen's Jamaican Independence Day Celebration*
+
+Have you been wanting to eat a hot patty on the spot?  Well this is the time to come visit us along with the other Bow Market businesses as we celebrate with traditional Jamaican cusine and drinks. Plus there will be activities and a DJ spinning tunes.
+
+- *Saturday 8/19: Somerville Farmer’s Market in Union Square*
+
+Catch us under the Nibble Kitchen tent with our take-home frozen patties and cool refresing cups of our sorrel and ginger drinks.
+
+----
+
+> ###### Month of July 2023
+
+![Fireworks and Sparkles](../images/events-jul-spark.jpg)
+
+`{{<icon class="fa fa-map-signs fa-2x">}}`
+Come visit us in Somerville
+
+| Date              | Description |
+| -----------       | ----------- |
+| Mon 7/3           | Nibble Kitchen Pop-up within Bow Market|
 | Sat 7/8           | Somerville Farmer’s Market in Union Square |
 | Sat 7/22          | Somerville Farmer’s Market in Union Square |
 
 ---
-- *Monday 7/3: Popup in Nibble Kitchen*
+- *Monday 7/3: Pop-up in Nibble Kitchen*
 
-Have you been wanting to eat a hot patty on the spot?  Well this popup is just what you need, so come visit us!
+Have you been wanting to eat a hot patty on the spot?  Well this pop-up is just what you need, so come visit us!
 
 - *Saturday 7/8 and 7/22: Somerville Farmer’s Market in Union Square*
 
-Catch us under the Nibble Kitchen tent with our take-home frozen patties and cool refresing cups of our sorrel and ginger.
+Catch us under the Nibble Kitchen tent with our take-home frozen patties and cool refresing cups of our sorrel and ginger drinks.
 
 ---
 
 > ###### Month of June 2023
 
- ![June Events Flags](../images/june-events-flag.jpg)
+ ![June Events Flags](../images/events-jun-flag.jpg)
 
 `{{<icon class="fa fa-commenting fa-2x">}}`
 Come find us in Somerville as we celebrate Caribbean-American Heritage month and Juneteenth!
