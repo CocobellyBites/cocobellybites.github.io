@@ -11,7 +11,7 @@ You can find us once a month at Somerville Farmer's Market in Union Square. We w
 
 ---
 
-Come and look for us this month`{{<icon class="fa fa-calendar fa-lg">}}` Saturday ***Aug 19th***, 2023 `{{<icon class="fa fa-calendar fa-lg">}}` under the Nibble Kitchen tent.
+Come and look for us this month`{{<icon class="fa fa-calendar fa-lg">}}` Saturday ***Sept 16th***, 2023 `{{<icon class="fa fa-calendar fa-lg">}}` under the Nibble Kitchen tent.
 
 - {{<extlink text="2023 Union Square Farmers Market in Somerville" href="https://www.unionsquaremain.org/2023-fmseason" icon="fa fa-external-link">}}
 
