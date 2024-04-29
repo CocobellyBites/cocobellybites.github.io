@@ -10,9 +10,8 @@ Jamaican patty production for Somerville Farmer's Market in Union Square.
 
 >Small batch handmade patties ready for your freezer
 
-![Bin of Frozen Patties](../images/patties-prod3.jpg)
+![Frozen Patty Packs](../images/patties-prod3.jpg)
 
 >The results are fresh baked patties
 
-![Hot Traditional Beef](../images/patties-prod7.jpg)
-![Hot Curry Chickent](../images/patties-prod8.jpg)
+![Hot Traditional Beef](../images/patty-bite.jpg)

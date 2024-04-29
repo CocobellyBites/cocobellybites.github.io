@@ -7,6 +7,16 @@ weight: 1
 #### *`{{<icon class="fa fa-commenting fa-lg">}}` Newsworthy*
 
 
-Mark your calendars for **Sat Feb 17th and Mar 2nd**, because we are back with our ***take and bake*** bags of patties at Somerville Winter Farmers Market @ the Armory. Looking forward to seeing you there!
+Mark your calendars for a spicy `{{<icon class="fa fa-fire fa-2x">}}` event!
 
- <!-- `{{<icon class="fa fa-calendar fa-lg">}}` [Events Calendar](events) `{{<icon class="fa fa-calendar fa-lg">}}` -->
+`{{<icon class="fa fa-map-pin fa-2x">}}` **May 4th (Saturday)** at **Rhythm N' Spice Hot Sauce Fest!** 
+
+We will be participating in a spicy Jamaican patty challenge and have our beef and veggie patties available for purchase. 
+
+- {{<extlink text="Rhythm N' Spice 2024" href="https://bostonjerkfest.com/rhythm-n-spice/" icon="fa fa-external-link">}}
+
+![Hot Sauce Fest Promo](../images/2024-fest-promo.png)
+
+<!-- **May 18th and June 1st (Saturdays)** We're returning with ***take and bake***  bags of patties at Union Square Farmers Market in Somerville. Looking forward to seeing you there!
+
+  `{{<icon class="fa fa-calendar fa-lg">}}` [Events Calendar](events) `{{<icon class="fa fa-calendar fa-lg">}}` -->
