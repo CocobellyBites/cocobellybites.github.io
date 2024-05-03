@@ -1,15 +1,12 @@
 ---
-title: ""
+title: "Newsworthy"
 navigation_menu_title: "News Flash"
 weight: 1
 ---
 
-#### *`{{<icon class="fa fa-commenting fa-lg">}}` Newsworthy*
+> Mark your calendars for a spicy event!
 
-
-Mark your calendars for a spicy `{{<icon class="fa fa-fire fa-2x">}}` event!
-
-`{{<icon class="fa fa-map-pin fa-2x">}}` **May 4th (Saturday)** at **Rhythm N' Spice Hot Sauce Fest!** 
+`{{<icon class="fa fa-fire fa-2x">}}` **May 4th (Saturday)** at **Rhythm N' Spice Hot Sauce Fest** `{{<icon class="fa fa-fire fa-2x">}}`
 
 We will be participating in a spicy Jamaican patty challenge and have our beef and veggie patties available for purchase. 
 

@@ -1,6 +1,6 @@
 ---
-title: "GitHub"
+title: "Order Here"
 weight: 99
-header_menu: false
-external: https://github.com/zjedi/hugo-scroll
+header_menu: true
+external: https://cocobelly-bites.square.site/
 ---
