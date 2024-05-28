@@ -11,10 +11,17 @@ You can find us at Somerville Union Square Farmer's Market. We will have a varie
 
 ---
 
-Come and look for us`{{<icon class="fa fa-calendar fa-lg">}}` Saturday ***May 18th and June 1st***, 2024 `{{<icon class="fa fa-calendar fa-lg">}}` under the Nibble Kitchen tent
+Come and look for us
 
-- {{<extlink text="2024 Union Square Farmers Market in Somerville" href="https://www.unionsquaremain.org/2024-fmseason" icon="fa fa-external-link">}}
+`{{<icon class="fa fa-calendar fa-lg">}}` Saturday June 1st `{{<icon class="fa fa-calendar fa-lg">}}` under the Nibble Kitchen tent
+
+- {{<extlink text="Union Square Farmers Market in Somerville" href="https://www.unionsquaremain.org/2024-fmseason" icon="fa fa-external-link">}}
 
 <!-- - {{<extlink text="Somerville Winter Farmers Market" href="https://www.somwintermarket.org/" icon="fa fa-external-link">}} -->
 
 - {{<extlink text="Nibble - Global Eats by Local Peeps " href="https://nibblesomerville.com/" icon="fa fa-external-link">}}
+
+---
+
+`{{<icon class="fa fa-calendar fa-lg">}}` Monday June 2st and 10th`{{<icon class="fa fa-calendar fa-lg">}}` @ Norfolk St & Biship Allen Dr
+- {{<extlink text="Central Sq Farmers Market in Cambridge" href="https://www.massfarmersmarkets.org/central" icon="fa fa-external-link">}}
