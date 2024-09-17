@@ -18,10 +18,13 @@ A flavorful pastry that is traditional filled with ground beef. The pastry color
 Seasoned ground beef, carrots and an onion sauteed mixture. 
 
 **Curry Chicken:**
-Seasoned shredded curry chicken, carrots simmered in coconut milk.
+Seasoned shredded curry chicken, carrots simmered in a coconut milk sauce.
 
 **Callaloo Veggie:** 
 Seasoned callaloo greens with tomato, carrot, corn, green beans and an onion sauteed mixture.
+
+**Curry Chickpea:**
+Chickpeas with kale and carrots simmered in a perfectly-spiced coconut milk sauce.
 
 ---
 ##### *Sides and Refreshers*

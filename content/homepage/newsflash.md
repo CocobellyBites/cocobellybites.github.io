@@ -4,24 +4,28 @@ navigation_menu_title: "News Flash"
 weight: 1
 ---
 
-> We're at two markets this summer
 
-We're returning with our ***take and bake***  bags of patties at the farmers market. So make sure to check below for the dates and looking forward to seeing you there!
+> Jamaican patties at your convenience 
 
-{{<extlink text="Union Square Farmers Market in Somerville" href="https://www.unionsquaremain.org/2024-fmseason" icon="fa fa-external-link">}}
+![Online Order Flyer](../images/online-order.jpeg)
 
-`{{<icon class="fa fa-calendar fa-lg">}}` **Saturdays:** 6/1, 8/10 and 9/7
+`{{<icon class="fa fa-shopping-basket fa-lg">}}` {{<extlink text=" Order Now!" href="https://cocobelly-bites.square.site/" >}} 
 
-{{<extlink text="Central Sq Farmers Market in Cambridge" href="https://www.massfarmersmarkets.org/central" icon="fa fa-external-link">}}
-
-`{{<icon class="fa fa-calendar fa-lg">}}` **Mondays:** 6/3, 6/10, 7/15, 9/16 and 11/11
 
 ---
+> For all the festival goers
 
-> Pre-ordering is now available 
+Time to mark your calendar for {{<extlink text="Somerville's Ignite!" href="https://somervilleartscouncil.org/artsunion/2024/ignite">}}: A Global Street Food, Fire & Light Festival on **Sat, September 28th 6-10 pm** (Rain date: 9/29) @ Union Square plaza and lot, Somerville. 
+
+We will be serving our Jamaican inspired bowls, just like we offered at Somerville's Artbeat during the summer. So remember to look out for our tent and grab either a jerk chicken or curry chickpea bowl. `{{<icon class="fa fa-thumbs-up fa-lg">}}`
+
+---
+**Reminder:** we have only a couple of farmers market appearances scheduled. 
+
+`{{<icon class="fa fa-calendar fa-lg">}}` **Saturday 10/5:** {{<extlink text="Union Square Farmers Market in Somerville" href="https://www.unionsquaremain.org/2024-fmseason" >}}
+
+`{{<icon class="fa fa-calendar fa-lg">}}` **Monday 11/11:** {{<extlink text="Central Sq Farmers Market in Cambridge" href="https://www.massfarmersmarkets.org/central" >}}
 
 
-![Online Order Flyer](../images/online-ordering.jpeg)
 
-{{<extlink text="Pre-order Now!" href="https://cocobelly-bites.square.site/" icon="fa fa-external-link">}} 
   <!-- `{{<icon class="fa fa-calendar fa-lg">}}` [Events Calendar](events) `{{<icon class="fa fa-calendar fa-lg">}}` -->
