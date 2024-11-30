@@ -5,13 +5,17 @@ header_menu: true
 ---
 
 
-Jamaican patty production for Somerville Farmer's Market in Union Square.
-`{{<icon class="fa fa-bullhorn fa-2x">}}` Be sure to take a peek at our full [photo album](photo-album)!
+`{{<icon class="fa fa-bullhorn fa-2x">}}` Jamaican patties at Nibble Kitchen Retail Marketplace.
 
->Small batch handmade patties ready for your freezer
 
-![Frozen Patty Packs](../images/patties-prod3.jpg)
+>Small batch handmade all ready for your freezer
 
->The results are fresh baked patties
+![Frozen Patty Packs](../images/patties-prod10.jpg)
+
+>Follow the instructions and you'll enjoy fresh baked patties
 
 ![Hot Traditional Beef](../images/patty-bite.jpg)
+
+----
+
+Be sure to take a peek at our full [photo album](photo-album)!

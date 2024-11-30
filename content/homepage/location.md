@@ -7,21 +7,25 @@ header_menu: true
 ---
 
 
-Come and look for us at these farmers markets: **Somerville Union Square** and **Cambridge Central Square**.
+> Come and look for us
 
-We will have a varied offering of take-home frozen Jamaican patties in beef, curry chicken, vegetable and our new offering of curry chickpea. `{{<icon class="fa fa-smile-o fa-lg">}}`
+**Nibble Kitchen Retail Marketplace**
 
----
+Self-serve vending is now available inside of Nibble Kitchen located in Bow Market, Union Sq Somerville.
+The freezer will be restock weekly, but don't hesitate to contact us about a specific filling.
 
-Saturday under the Nibble Kitchen tent
+**Somerville Winter Farmers Market**
 
-- {{<extlink text="Union Square Farmers Market in Somerville" href="https://www.unionsquaremain.org/2024-fmseason" icon="fa fa-external-link">}}
+We will have a varied offering of take-home frozen Jamaican patties in beef, curry chicken, vcurry chickpea and our new offering of jerk chicken.
 
-<!-- - {{<extlink text="Somerville Winter Farmers Market" href="https://www.somwintermarket.org/" icon="fa fa-external-link">}} -->
+
+- {{<extlink text="Somerville Winter Farmers Market" href="https://www.somwintermarket.org/" icon="fa fa-external-link">}}
 
 - {{<extlink text="Nibble - Global Eats by Local Peeps " href="https://nibblesomerville.com/" icon="fa fa-external-link">}}
 
----
 
- Monday under a blue tent @ Norfolk St & Biship Allen Dr
-- {{<extlink text="Central Sq Farmers Market in Cambridge" href="https://www.massfarmersmarkets.org/central" icon="fa fa-external-link">}}
+> Also we're online and ready to take pre-orders
+
+`{{<icon class="fa fa-shopping-basket fa-lg">}}` {{<extlink text=" Order Now!" href="https://cocobelly-bites.square.site/" >}}
+
+![Online Order Flyer](../images/online-order.jpeg)
