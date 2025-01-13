@@ -17,13 +17,13 @@ A flavorful pastry that is traditional filled with ground beef. The pastry color
 **Traditional Beef:**
 Seasoned ground beef, carrots with onion sauteed together.  
 
-**Curry Chicken:**
+**Coconut Curry Chicken:**
 Seasoned shredded curry chicken and carrots simmered in a coconut milk sauce.
 
-**Curry Chickpea:**
+**Jammin' Curry Chickpea:**
 Chickpeas with kale and carrots simmered in a perfectly-spiced coconut milk sauce.
 
-**Jerk Chicken:**
+**Reggae Jerk Chicken:**
 Marinated shredded chicken in a medium jerk sauce.
 
 ---
@@ -32,8 +32,8 @@ Marinated shredded chicken in a medium jerk sauce.
 **Plaintains:**
 Sweet & salty side of sliced fried ripe plaintains.
 
-**Sorrel Refresher:** 
+**So Real Sorrel Refresher:** 
 A refreshing sweet yet tart gingery hibiscus drink.
 
-**Ginger Refresher:**
-A punch of ginger with a hint of lime drink.
+**Ginger Blast Refresher:**
+A nice blast of ginger drink with a hint of lime.
