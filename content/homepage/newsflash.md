@@ -4,12 +4,14 @@ navigation_menu_title: "News Flash"
 weight: 2
 ---
 
-> Thurs, December 12th 6-9 pm
+> Supper Club @ Nibble Kitchen this Sunday, January 19th 5:30 - 7 pm
 
+This is a pre-purchased meal event, so purchase a meal {{<extlink text="here" href="https://www.eventbrite.com/e/cocobelly-supper-club-tickets-1138355785799">}}. We are serving our patties along with Jamaican inspired bowls with either Reggae Jerk Chicken or Jammin' Curry Chickpea as the protein.
 
-MIT After Dark Series {{<extlink text="Made in the '90s!" href="https://calendar.mit.edu/event/after-dark-made-in-the-90s">}}: A lively evening of entertainment, science, and tinkering for the 21+ crowd!
+Each ticket covers one full meal, including an appetizer and entrée of your choice. Additional items are available for purchase with the meal.
 
-We will be there serving our patties along with Jamaican inspired bowls with either a jerk chicken or curry chickpea as the protein.
+There are two pick-up times available, 5:30pm or 7:00pm, to ensure your dinner is served hot, fresh, and ready to-go!
+
 
 ---
 > Jamaican patties at your convenience 
