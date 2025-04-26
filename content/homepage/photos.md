@@ -5,9 +5,6 @@ header_menu: true
 ---
 
 
-`{{<icon class="fa fa-bullhorn fa-2x">}}` Jamaican patties at Nibble Kitchen Retail Marketplace.
-
-
 >Small batch handmade all ready for your freezer
 
 ![Frozen Patty Packs](../images/patties-prod10.jpg)

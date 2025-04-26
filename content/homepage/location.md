@@ -6,26 +6,31 @@ weight: 5
 header_menu: true
 ---
 
+> This summer we will be popping up in a couple of locations so be on the lookout.
 
-> Come and look for us
+**3 Marble Street, Stoneham, MA 02180**
 
-**Nibble Kitchen Retail Marketplace**
+- {{<extlink text="Food rEvolution" href="https://www.food-rev.com/food-rev-thebizs" icon="fa fa-external-link">}}
 
-Self-serve vending is now available inside of Nibble Kitchen located in Bow Market, Union Sq Somerville.
-The freezer will be restock weekly, but don't hesitate to contact us about a specific filling.
+ This is the home for our frozen take & bake Jamaican patties. Here you can pick up a pack and any {{<extlink text=" custom orders" href="https://cocobelly-bites.square.site/" >}} {{<icon class="fa fa-shopping-basket fa-small">}} submitted online.
 
-**Somerville Winter Farmers Market**
+----
+**Farmers Markets**
 
-We will have a varied offering of take-home frozen Jamaican patties in beef, curry chicken, vcurry chickpea and our new offering of jerk chicken.
+We will have a batch of hot & ready to eat Jamaican patties plus a varied offering of frozen take & bake in beef, curry chicken, curry chickpea and our new offering of jerk chicken.
+
+Be sure to click the link for a complete list of our dates at the following markets
+
+**6/14, 6/21, 7/12, 8/16, 9/20, 9/27, 10/25, 11/1**
+- {{<extlink text="Boston Fish & Farm Market" href="https://www.massfarmersmarkets.org/fishandfarmmarket" icon="fa fa-external-link">}}
+
+*Dates will be added soon for farmers market in Stoneham, Melrose, Wakefield and Winchester.*
 
 
-- {{<extlink text="Somerville Winter Farmers Market" href="https://www.somwintermarket.org/" icon="fa fa-external-link">}}
+> Also we're online and accepting pre-orders of your favorite fillings
 
-- {{<extlink text="Nibble - Global Eats by Local Peeps " href="https://nibblesomerville.com/" icon="fa fa-external-link">}}
-
-
-> Also we're online and ready to take pre-orders
-
-`{{<icon class="fa fa-shopping-basket fa-lg">}}` {{<extlink text=" Order Now!" href="https://cocobelly-bites.square.site/" >}}
+`{{<icon class="fa fa-shopping-basket fa-lg">}}` {{<extlink text=" Order" href="https://cocobelly-bites.square.site/" >}} what you want and we'll make them as requested. Keep in mind that large requests will require some lead time.
 
 ![Online Order Flyer](../images/online-order.jpeg)
+
+
