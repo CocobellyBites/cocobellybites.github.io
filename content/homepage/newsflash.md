@@ -6,7 +6,7 @@ weight: 2
 
 > Are you ready to turn up the heat 🌶️ with our patties?
 
-Well check us out at the **2025 Rhythm N’ Spice Hot Sauce Fest** 🔥
+🔥
  
  💥 ***Saturday, May 3, 2025*** &nbsp;@&nbsp; {{<extlink text="The Cambridge Foundry" href="https://www.cambridgefoundry.org/visit-us" icon="fa fa-external-link">}} in Kendall Square, Cambridge. It's a spicy celebration of global hot sauces, fiery challenges, and non-stop entertainment! &nbsp;•&nbsp; {{<icon class="fa fa-ticket">}} {{<extlink text="Get Tickets Here" href="https://www.eventbrite.com/e/2025-rhythm-n-spice-hot-sauce-fest-tickets-1236127413369">}} {{<icon class="fa fa-ticket">}} 
  
