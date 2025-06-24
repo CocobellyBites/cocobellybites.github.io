@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cocobelly Bites</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Cocobelly Bites</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/about-us/</link>
+      <link>/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about-us/</guid>
+      <guid>/about-us/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/about-us.jpg&#34; alt=&#34;Cocobelly Bites&#34;&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;paula&#34;&gt;Paula&lt;/h6&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/pj-us2.jpg&#34; alt=&#34;Photo of Paula&#34;&gt;&lt;/p&gt;&#xA;&lt;h6 id=&#34;doris&#34;&gt;Doris&lt;/h6&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/dj-us2.jpg&#34; alt=&#34;Photo of Doris&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/events/</link>
+      <link>/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/events/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h4 id=&#34;hahahugoshortcode2s0hbhb-2023-calendar-of-events&#34;&gt;&lt;code&gt;&#xA;  &#xA;&#xA;&lt;/code&gt; 2023 Calendar of Events&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h6 id=&#34;month-of-august-2023&#34;&gt;Month of August 2023&lt;/h6&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/events-aug-ja.jpg&#34; alt=&#34;Fireworks and Sparkles&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;&#xA;  &#xA;&#xA;&lt;/code&gt;&#xA;Come visit us in Somerville&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sun 8/6&lt;/td&gt;&#xA;          &lt;td&gt;Nibble Kitchen&amp;rsquo;s Jamaican Independence Day Celebration within Bow Market&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sat 8/19&lt;/td&gt;&#xA;          &lt;td&gt;Somerville Farmer’s Market in Union Square&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Sunday 8/6: Pop-up at Nibble Kitchen&amp;rsquo;s Jamaican Independence Day Celebration&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Have you been wanting to eat a hot patty on the spot?  Well this is the time to come visit us along with the other Bow Market businesses as we celebrate with traditional Jamaican cusine and drinks. Plus there will be activities and a DJ spinning tunes.&lt;/p&gt;</description>
+      <guid>/events/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h4 id=&#34;hahahugoshortcode4s0hbhb-2023-calendar-of-events&#34;&gt;&lt;code&gt;&#xA;  &#xA;&#xA;&lt;/code&gt; 2023 Calendar of Events&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h6 id=&#34;month-of-august-2023&#34;&gt;Month of August 2023&lt;/h6&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/events-aug-ja.jpg&#34; alt=&#34;Fireworks and Sparkles&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;&#xA;  &#xA;&#xA;&lt;/code&gt;&#xA;Come visit us in Somerville&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sun 8/6&lt;/td&gt;&#xA;          &lt;td&gt;Nibble Kitchen&amp;rsquo;s Jamaican Independence Day Celebration within Bow Market&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sat 8/19&lt;/td&gt;&#xA;          &lt;td&gt;Somerville Farmer’s Market in Union Square&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Sunday 8/6: Pop-up at Nibble Kitchen&amp;rsquo;s Jamaican Independence Day Celebration&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Have you been wanting to eat a hot patty on the spot?  Well this is the time to come visit us along with the other Bow Market businesses as we celebrate with traditional Jamaican cusine and drinks. Plus there will be activities and a DJ spinning tunes.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/homepage/</link>
+      <link>/homepage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/homepage/</guid>
+      <guid>/homepage/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/photo-album/</link>
+      <link>/photo-album/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/photo-album/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h4 id=&#34;hahahugoshortcode6s0hbhb-photo-album&#34;&gt;&lt;code&gt;&#xA;  &#xA;&#xA;&lt;/code&gt; Photo Album&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h6 id=&#34;june-19th-nibble-kitchen-popup-on-juneteenth&#34;&gt;June 19th: Nibble Kitchen Popup on Juneteenth&lt;/h6&gt;&#xA;&lt;p&gt;Many &lt;strong&gt;THANKS&lt;/strong&gt; to everyone that dropped into the popup at Nibble Kitchen in Bow Market to enjoy a hot patty, side of plaintains and sorrel refresher. Going in we were unsure of how many diners would come out on a Monday afternoon. However we were pleasantly suprised and promise to have more at our next popup.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/cbb-popup1.jpg&#34; alt=&#34;Cocobelly Bites Popup&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/patty-bite.jpg&#34; alt=&#34;Beef Patty Goodness&#34;&gt;&lt;/p&gt;</description>
+      <guid>/photo-album/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h4 id=&#34;hahahugoshortcode3s0hbhb-photo-album&#34;&gt;&lt;code&gt;&#xA;  &#xA;&#xA;&lt;/code&gt; Photo Album&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h6 id=&#34;june-19th-nibble-kitchen-popup-on-juneteenth&#34;&gt;June 19th: Nibble Kitchen Popup on Juneteenth&lt;/h6&gt;&#xA;&lt;p&gt;Many &lt;strong&gt;THANKS&lt;/strong&gt; to everyone that dropped into the popup at Nibble Kitchen in Bow Market to enjoy a hot patty, side of plaintains and sorrel refresher. Going in we were unsure of how many diners would come out on a Monday afternoon. However we were pleasantly suprised and promise to have more at our next popup.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/cbb-popup1.jpg&#34; alt=&#34;Cocobelly Bites Popup&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/patty-bite.jpg&#34; alt=&#34;Beef Patty Goodness&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

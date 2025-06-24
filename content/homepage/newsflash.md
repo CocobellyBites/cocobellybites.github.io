@@ -4,13 +4,13 @@ navigation_menu_title: "News Flash"
 weight: 2
 ---
 
-> Are you ready to turn up the heat 🌶️ with our patties?
+> Art, Fun, and Jamaican Patties
 
-🔥
- 
- 💥 ***Saturday, May 3, 2025*** &nbsp;@&nbsp; {{<extlink text="The Cambridge Foundry" href="https://www.cambridgefoundry.org/visit-us" icon="fa fa-external-link">}} in Kendall Square, Cambridge. It's a spicy celebration of global hot sauces, fiery challenges, and non-stop entertainment! &nbsp;•&nbsp; {{<icon class="fa fa-ticket">}} {{<extlink text="Get Tickets Here" href="https://www.eventbrite.com/e/2025-rhythm-n-spice-hot-sauce-fest-tickets-1236127413369">}} {{<icon class="fa fa-ticket">}} 
- 
 
-![2025 Hot Sauce Fest Promotional Flyer](../images/rns-hotsauce-2025.png)
+ 
+ 💥 ***Thursday, June 26, 2025*** &nbsp;@&nbsp; {{<extlink text="Harvard Art Museums at Night" href="https://harvardartmuseums.org/calendar/harvard-art-museums-at-night-36" icon="fa fa-external-link">}} Harvard Art Museums - 32 Quincy Street, Cambridge. Come and enjoy an evening of art, fun, food, and more. 
+ 
+ The event is free with snacks and drinks available for purchase. {{<icon class="fa fa-ticket">}} {{<extlink text="Advance registration is encouraged" href="https://secure.touchnet.net/C20832_ustores/web/store_cat.jsp?STOREID=99&CATID=281&SINGLESTORE=true">}} {{<icon class="fa fa-ticket">}} 
+ 
 
 

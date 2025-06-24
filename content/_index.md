@@ -11,4 +11,10 @@ header_logo: "images/logo-small-simple.png"
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Cocobelly Bites"
 header_subheadline: "Jamaican <b>Bites</b> to keep your <b>Cocobelly</b> full"
+
+# Add a 'Go back to top' item to the navigation menu
+# Title: name of navigation menu entry
+# Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
+nav_to_top_title: "Return To Top"
+nav_to_top_weight: last
 ---
