@@ -2,7 +2,7 @@
 
 ![](/static/images/menu-banner.jpg)
 
-**Cocobelly Bites** is a Jamaican frozen patty brand located in Stoneham, MA. This site shares homemade island flavors through a colorful, scroll-based layout built with Hugo and the [Hugo Scroll](https://github.com/zjedi/hugo-scroll) theme.
+**Cocobelly Bites** is a Jamaican frozen patty brand located in Stoneham, MA. This site shares homemade island flavors through a colorful, scroll-based layout built with Hugo and the Hugo Scroll theme.
 
 ## 🔧 Built With
 
@@ -31,5 +31,5 @@ See [`LICENSE.md`](/content/en/license.md) for theme license details.
 
 [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-© 2025 Cocobelly Bites LLC. All rights reserved.
+##### © 2025 Cocobelly Bites LLC. All rights reserved.
 ---
