@@ -2,18 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://cocobellybites.com/</loc>
   </url><url>
-    <loc>/about-us/</loc>
+    <loc>https://cocobellybites.com/menu/</loc>
   </url><url>
-    <loc>/events/</loc>
+    <loc>https://cocobellybites.com/license/</loc>
   </url><url>
-    <loc>/homepage/</loc>
-  </url><url>
-    <loc>/photo-album/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://cocobellybites.com/about-us/</loc>
   </url>
 </urlset>
