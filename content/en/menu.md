@@ -36,6 +36,9 @@ Fluffy, fragrant rice cooked in rich coconut milk with a touch of thyme. The per
 **Coco Slaw:**
 Our twist on coleslaw with hints of lime.
 
+**Coco Bread:**
+Soft, buttery, and slightly sweet yeast roll. Pefect for our stuffed *Reggae Jerk Chicken* sandwich.
+
 **So Real Sorrel Refresher:** 
 A sweet, tart, and gingery hibiscus drink. Cool, bold, and full of island flavor.
 
