@@ -8,26 +8,27 @@ header_menu: true
 
 **{{<icon name="shop">}} 3 Marble Street, Stoneham, MA 02180**
 
-- {{<extlink text="Food rEvolution" href="https://www.food-rev.com/food-rev-thebizs" icon="fa fa-external-link">}}
+- {{<extlink text="Food Rev Kitchen" href="https://www.food-rev.com/food-rev-thebizs" icon="fa fa-external-link">}}
 
 
-Come visit us to grab our delicious Jamaican patties, available frozen for take & bake, or place a {{<icon name="cart-arrow-down">}} {{<extlink text=" custom order" href="https://cocobelly-bites.square.site/" >}} online for your next event or craving. Keep in mind that larger requests will require some lead time. {{<icon name="face-smile-wink">}}
+Pickup our delicious Jamaican patties, available frozen for take & bake at Food Rev's Saturday Cafe 8am-12:30pm.
+
+Better yet, {{<extlink text=" pre-order" href="https://cocobelly-bites.square.site/" >}} online for your next event or whenever a craving strikes! For larger requests, just give us a little extra lead time so we can make everything perfect.
 
 
 ----
 
 **{{<icon name="carrot">}} Local Farmers Markets**
 
-The 2025 farmers market season is wrapping up and we’re down to our final few weeks!
-So be sure to catch us at your neighborhood farmers markets and get your goodies before the season ends. 
-{{<icon name="hand-holding-heart">}} **Thank you** for supporting us all summer long and remember you can always place an {{<icon name="cart-arrow-down">}} {{<extlink text=" order" href="https://cocobelly-bites.square.site/" >}}
+We're kicking off 2026 at First Street Market, an indoor farmers & makers market in East Cambridge. Come visit us indoors and check out our offerings!
 
-{{<icon name="thumbtack">}} Last Month of Market Season!
 
-- {{<extlink text="Boston Fish & Farm Market" href="https://www.massfarmersmarkets.org/fishandfarmmarket" icon="fa fa-external-link">}} &nbsp;•&nbsp; October 25, November 1
+- {{<extlink text="First Street Market (FSM)" href="https://firststreetmkt.com/markets" icon="fa fa-external-link">}} &nbsp;•&nbsp; Weekly Saturdays 11am - 4pm.
 
-Plus we're at the following markets under **Food rEvolution** tent.
 
-- {{<extlink text="Melrose Farmers Market" href="https://www.melrosefarmersmarket.org/" icon="fa fa-external-link">}} &nbsp;•&nbsp;  October 30
 
-- {{<extlink text="WakeField Farmers Market" href="https://www.wakefieldfarmersmarket.org/" icon="fa fa-external-link">}}  &nbsp;•&nbsp; October 4, October 18
+ **Thank you** for supporting us and remember you can always place an online {{<icon name="cart-arrow-down">}} {{<extlink text=" order" href="https://cocobelly-bites.square.site/" >}} anytime.
+
+
+
+

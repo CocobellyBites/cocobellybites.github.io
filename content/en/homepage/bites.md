@@ -1,6 +1,6 @@
 ---
 title: "Bites for Your Belly"
-header_menu_title: "Menu"
+header_menu_title: "Bites & Delights"
 navigation_menu_title: "Bites"
 weight: 4
 header_menu: true
@@ -21,5 +21,5 @@ The most popular way to eat a patty in Jamaica is tucked inside cocobread, soft 
 
 Get ready to bite into our homemade, flaky patties packed with love and spice.
 
-See the [menu page](menu) for more details.
+Let's see [what's cooking](menu)!
 
