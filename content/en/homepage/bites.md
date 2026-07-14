@@ -11,9 +11,9 @@ detailed_page_homepage_content: true
 We take pride in crafting handmade, delicious Jamaican bites. Our mission is to bring those bold island flavors to Somerville and beyond, one patty at a time.
 
 
-##### *Our Bites*
+##### *Our Original Bite*
 
-**Jamaican Patty**
+**The Jamaican Patty**
 A savory pastry traditionally filled with seasoned ground beef. Its golden color comes from curry and turmeric, which also give it a rich, distinct flavor.
 Today, Jamaican patties come with all kinds of fillings, from curry chicken to ackee, and even lobster.
 
